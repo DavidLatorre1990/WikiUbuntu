@@ -21,12 +21,9 @@ posteriormente se dieron a conocer los diferentes perfiles de los desarrolladore
 las necesidades que presentaban y se generaron propuestas que permitieran visibilzar más este punto
 el cual es uno de los más fuertes de la comunidad.
 
-5.  Articulación con el sector empresarial y emprendimiento:
+También se trató el tema de la articulación con el ector empresarial y emprendimiento cuyo tema central fue
+la determinación los posibles servicios que puede ofrecer la comunidad junto con estrategias para hacerlos
+viibles.
 
-    Objetivo: determinar los posibles servicios que puede ofrecer
-    la comunidad junto con la estrategia para hacerlos visibles.  En este círculo
-    será importante determinar la participación en rueda de negocios y determinar las empresas aliadas.
-
-6.    Actividades de difusión: FLISoL, SFD:
-
-    Objetivo: establecer la estrategia para llevar a cabo los eventos de Software Libre en el 2017.
+Por último se establecieron estrategias de difusión de la Flisol y Software Freedom Day correspondientes
+del 2017.
