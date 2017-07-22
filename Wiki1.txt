@@ -12,31 +12,14 @@ el fortalecimiento de la comunidad.
 
 Gobierno, territorio y políticas públicas dónde se trataron temas como la elaboración
 de estrategias para el seguimiento y promoción de la política del Software Libre inicialmente con un
-enfoque en Bogotá y posteriormente a nivel nacional
+enfoque en Bogotá y posteriormente a nivel nacional.
 
+Enseguida se trató el tema de educación e investagación, donde se plantearon estrategias para la
+inclusión de Software libre en la educación y su articulación con la investigación.
 
-
-    Objetivo: determinar las estrategias de participación de la comunidad de Software/Conocimiento
-    libre en la realización,  promoción y seguimiento de la política pública de SL y temas relacionados.
-    Este círculo de trabajo tendrá dos partes, la primera
-    se enfocará en Bogotá,  para lo cual se desarrollará  el foro de política pública de software libre de Bogotá, liderado por la Consejería TIC de la Alcaldía
-    Mayor de Bogotá. La segunda parte de esta mesa buscará abordar la
-    estrategia a nivel nacional,  al igual que hablar de la apropiación del territorio y la relación con el gobierno (MinTIC) , en este espacio también hablaremos de
-    política pública relacionada con servicios digitales básicos, big data, entre otros.
-
-3.  Educación e investigación
-
-    Objetivo: determinar las estrategias de inclusión
-    del SL en la educación y la articulación con la
-    investigación.  Será esta también la oportunidad
-    de haber de datos abiertos y ciencia abierta.
-
-4.  Desarrolladores
-
-    Objetivo: conocer los diferentes perfiles de desarrolladores de la comunidad,  las
-    necesidades de los mismos y generar propuestas
-    que permitan visibilizar más este punto
-    fuerte de la comunidad en diferentes niveles.
+posteriormente se dieron a conocer los diferentes perfiles de los desarrolladores de la comunidad,
+las necesidades que presentaban y se generaron propuestas que permitieran visibilzar más este punto
+el cual es uno de los más fuertes de la comunidad.
 
 5.  Articulación con el sector empresarial y emprendimiento:
 
