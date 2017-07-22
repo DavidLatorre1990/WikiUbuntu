@@ -1,0 +1,49 @@
+Jornada de Softaware Libre 2016
+
+Entre los días 26 y 27 de Noviembre se realizó la jornada
+de Software libre en la Biblioteca Pública Virgilio Barco
+un espacio para las personas interesadas en contribuir,
+fortalecer y promover el software libre.
+
+El evento se desarrolló basado en círculos de trabajo de
+trabajo los cuales trataron temas como la comunidad de software libre
+en Colombia donde se hizo énfasis en determinar la gestión de los diferentes canales que permitan
+el fortalecimiento de la comunidad.
+
+Gobierno, territorio y políticas públicas dónde se trataron temas como la elaboración
+de estrategias para el seguimiento y promoción de la política del Software Libre inicialmente con un
+enfoque en Bogotá y posteriormente a nivel nacional
+
+
+
+    Objetivo: determinar las estrategias de participación de la comunidad de Software/Conocimiento
+    libre en la realización,  promoción y seguimiento de la política pública de SL y temas relacionados.
+    Este círculo de trabajo tendrá dos partes, la primera
+    se enfocará en Bogotá,  para lo cual se desarrollará  el foro de política pública de software libre de Bogotá, liderado por la Consejería TIC de la Alcaldía
+    Mayor de Bogotá. La segunda parte de esta mesa buscará abordar la
+    estrategia a nivel nacional,  al igual que hablar de la apropiación del territorio y la relación con el gobierno (MinTIC) , en este espacio también hablaremos de
+    política pública relacionada con servicios digitales básicos, big data, entre otros.
+
+3.  Educación e investigación
+
+    Objetivo: determinar las estrategias de inclusión
+    del SL en la educación y la articulación con la
+    investigación.  Será esta también la oportunidad
+    de haber de datos abiertos y ciencia abierta.
+
+4.  Desarrolladores
+
+    Objetivo: conocer los diferentes perfiles de desarrolladores de la comunidad,  las
+    necesidades de los mismos y generar propuestas
+    que permitan visibilizar más este punto
+    fuerte de la comunidad en diferentes niveles.
+
+5.  Articulación con el sector empresarial y emprendimiento:
+
+    Objetivo: determinar los posibles servicios que puede ofrecer
+    la comunidad junto con la estrategia para hacerlos visibles.  En este círculo
+    será importante determinar la participación en rueda de negocios y determinar las empresas aliadas.
+
+6.    Actividades de difusión: FLISoL, SFD:
+
+    Objetivo: establecer la estrategia para llevar a cabo los eventos de Software Libre en el 2017.
