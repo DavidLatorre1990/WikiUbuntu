@@ -1,4 +1,4 @@
-Jornada de software libre 2016
+= Jornada de software libre 2016 =
 
 Between the days 26 and 27 of November was realized the Jornada de software libre
 in the Virgilio Barco Public Library
