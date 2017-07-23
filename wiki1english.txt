@@ -1,0 +1,28 @@
+Jornada de software libre 2016
+
+Between the days 26 and 27 of November was realized the Jornada de software libre
+in the Virgilio Barco Public Library
+A space for people interested in contributing,
+Strengthen and promote the free software.
+
+The event was developed based on working circles with topics such as the free software community
+in Colombia, where emphasis was focused on determining the management of the different channels that
+strengthening the community.
+
+Government, territory and public policies where topics such as the elaboration
+Strategies for the follow-up and promotion of the Free Software policy initially with a
+Approach in Bogotá and later at the national level. [[Https://www.youtube.com/watch?v=WccRI6BCI8I | Table of government]]
+
+The subject of education and investagation was then discussed, where strategies for
+Inclusion of free software in education and its articulation with research. [[Https://www.youtube.com/watch?v=XP5aCjAkRXw | Table of education]]
+
+Later they became known the different profiles of the developers of the community,
+The needs they presented and generated proposals that would make this point more visible
+Which is one of the strongest in the community. [[Https://www.youtube.com/watch?v=-JrouEudILE | Table of developers]]
+
+Also discussed was the articulation with the business sector and entrepreneurship whose central theme was
+The determination of the possible services that the community can offer along with strategies to make them
+Feasible. [[Https://www.youtube.com/watch?v=P5VzGgGZ6t4 | Table of enterprise and enterprise]]
+
+Finally, strategies were established for the dissemination of Flisol and Software Freedom Day
+Of 2017. [[https://www.youtube.com/watch?v=Bhfr4aXHxjM | Table of diffusion]]
