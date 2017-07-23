@@ -1,4 +1,4 @@
-Jornada de Softaware Libre 2016
+Jornada de Software Libre 2016
 
 Entre los días 26 y 27 de Noviembre se realizó la jornada
 de Software libre en la Biblioteca Pública Virgilio Barco
@@ -12,18 +12,18 @@ el fortalecimiento de la comunidad.
 
 Gobierno, territorio y políticas públicas dónde se trataron temas como la elaboración
 de estrategias para el seguimiento y promoción de la política del Software Libre inicialmente con un
-enfoque en Bogotá y posteriormente a nivel nacional.
+enfoque en Bogotá y posteriormente a nivel nacional.[[https://www.youtube.com/watch?v=WccRI6BCI8I | mesa de gobierno]]
 
 Enseguida se trató el tema de educación e investagación, donde se plantearon estrategias para la
-inclusión de Software libre en la educación y su articulación con la investigación.
+inclusión de Software libre en la educación y su articulación con la investigación. [[https://www.youtube.com/watch?v=XP5aCjAkRXw | Mesa de educación]]
 
 posteriormente se dieron a conocer los diferentes perfiles de los desarrolladores de la comunidad,
 las necesidades que presentaban y se generaron propuestas que permitieran visibilzar más este punto
-el cual es uno de los más fuertes de la comunidad.
+el cual es uno de los más fuertes de la comunidad. [[https://www.youtube.com/watch?v=-JrouEudILE | Mesa de desarrolladores]]
 
-También se trató el tema de la articulación con el ector empresarial y emprendimiento cuyo tema central fue
+También se trató el tema de la articulación con el sector empresarial y emprendimiento cuyo tema central fue
 la determinación los posibles servicios que puede ofrecer la comunidad junto con estrategias para hacerlos
-viibles.
+viibles. [[https://www.youtube.com/watch?v=P5VzGgGZ6t4 | Mesa de empresa y emprendimiento]]
 
 Por último se establecieron estrategias de difusión de la Flisol y Software Freedom Day correspondientes
-del 2017.
+del 2017. [[https://www.youtube.com/watch?v=Bhfr4aXHxjM | mesa de difusión]]
